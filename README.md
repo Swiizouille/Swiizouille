@@ -1,4 +1,4 @@
-# ![swiizouille](https://github.com/Swiizouille/Swiizouille/discord-logo-logodownload-download-logotipos-1.png)
+# ![swiizouille](https://github.com/Swiizouille/swiizouille/discord-logo-logodownload-download-logotipos-1.png)
 
 
 - 👋 Hi, I’m @Swiizouille
