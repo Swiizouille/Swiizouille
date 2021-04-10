@@ -3,4 +3,3 @@
 - 🌱 J'apprends actuellement le c++ et la sécurité Linux
 - 💞️ Je travailles pour le projet Navazia.
 - 📫 Par discord sous Swiik ça fait VroumVroum #9591
-
