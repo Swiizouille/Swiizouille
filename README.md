@@ -1,11 +1,21 @@
-### Hi there 👋, my name is Swiik
-Me is Swiizouille, I am a computer enthusiast and especially his security. I am in Nice in the south of France. I am on Window 10 as well as Ubuntu
-
-- 🔭 I’m currently working on I work from my home 
-- 🌱 I’m currently learning I am currently learning PHP with laravel as well as Java for my Minecraft project 
-- 📫 How to reach me: By Twitter, Gmail, or even discord 
-- ⚡ Fun fact: I like cats. 
-
+```python
+Swiizouille = {
+  "hobbies": [
+    "social_media",
+    "games",
+    "music",
+    "cyber-security",
+    "food"
+  ],
+  "location": "Nice, France",
+  "langages": [
+    "java",
+    "c++ / learning",
+    "c / learning"
+  ]
+}
+print(pseudow)
+```
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Swiizouille)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AkaSwiik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Swiik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://navazia.fr/)  
 
