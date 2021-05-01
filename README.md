@@ -12,7 +12,8 @@ Swiizouille = {
     "java",
     "shell",
     "c++ / learning",
-    "c / learning"
+    "c / learning",
+    "GO / learning"
   ]
 }
 print(Swiizouille)
