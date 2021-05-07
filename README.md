@@ -19,7 +19,20 @@ Swiizouille = {
 print(Swiizouille)
 ```
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Swiizouille)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AkaSwiik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Swiik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://navazia.fr/)  
+[![official JetBrains project](http://jb.gg/badges/official.svg)](https://www.jetbrains.com/)
+
+### Contact
+<p>
+  <a href="https://github.com/Swiizouille" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://twitter.com/Ministre_Swiizouille" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> 
+    <a href="https://discord.bio/Swiizouille" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge" />
+  </a> 
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swiizouille&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
