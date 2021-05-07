@@ -1,3 +1,6 @@
+![Profile views](https://gpvc.arturio.dev/Swiizouille)
+[![official JetBrains project](http://jb.gg/badges/official.svg)](https://www.jetbrains.com/)
+
 ```python
 Swiizouille = {
   "hobbies": [
@@ -19,7 +22,6 @@ Swiizouille = {
 print(Swiizouille)
 ```
 
-[![official JetBrains project](http://jb.gg/badges/official.svg)](https://www.jetbrains.com/)
 
 ### Contact
 <p>
@@ -35,8 +37,7 @@ print(Swiizouille)
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swiizouille&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swiizouille&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swiizouille&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)  
 
-![Profile views](https://gpvc.arturio.dev/Swiizouille)  
