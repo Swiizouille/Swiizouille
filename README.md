@@ -36,9 +36,7 @@ print(Swiizouille)
 <a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="docker" width="40" height="40"/> </a>
 
