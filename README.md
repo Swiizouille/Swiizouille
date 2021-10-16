@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swiizouille</h1>
 <h3 align="center">A passionate DevOps</h3>
 ![![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Swiique+text;Studip+French+DevOps+⚡)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Pokrov+text;Second+line+of+text)](https://git.io/typing-svg)
 - 🔭 I’m currently working on [Navazia](https://navazia.fr),  [Mondialcloud](https://discord.gg/E7GyyVguKq)
 
 - 🌱 I’m currently learning **C++/C, goLang**
