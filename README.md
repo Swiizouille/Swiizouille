@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Swiique;Stupid+French+DevOps+❤)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238AA6F7&size=50&lines=Hello%2C+I'm+Swiique;Stupid+French+Devops)](https://git.io/typing-svg)
 <h3 align="center">A passionate DevOps</h3>
 
 - 🔭 I’m currently working on [Navazia](https://navazia.fr),  [Mondialcloud](https://discord.gg/E7GyyVguKq)
