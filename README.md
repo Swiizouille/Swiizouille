@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img height="30">
-
+<img height="30" src="https://img.shields.io/badge/Redis-F62B2B?style=for-the-badge&logo=java&logoColor=white"><img height="30">
 
 
 ### Contact
