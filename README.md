@@ -14,8 +14,11 @@
 
 - 📫 How to reach me **Swiique#4094**
 
-<p align="left"> 
 
+
+
+### Languages
+<p align="left"> 
 
 <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img height="30">
 
