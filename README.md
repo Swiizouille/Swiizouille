@@ -21,7 +21,7 @@
 <p align="left"> 
 
   <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white"><img height="30">
-  <img height="30" src="  https://img.shields.io/badge/HTML-F62B2B?style=for-the-badge&logoColor=white"><img height="30">
+  <img height="30" src="https://img.shields.io/badge/HTML-F62B2B?style=for-the-badge&logoColor=white"><img height="30">
   <img height="30" src="https://img.shields.io/badge/C++-1375A3?style=for-the-badge&logo=cpp&logoColor=white"><img height="30">
 
 
