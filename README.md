@@ -19,16 +19,8 @@
 
 ### Languages
   <p align="left"> 
-  <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white"><img height="30">
-  <br>
-  <img height="30" src="https://img.shields.io/badge/HTML-F62B2B?style=for-the-badge&logoColor=white"><img height="30">
-  <img height="30" src="https://img.shields.io/badge/CSS-F62B2B?style=for-the-badge&logoColor=white"><img height="30">
-  <br>
-  <img height="30" src="https://img.shields.io/badge/Bash-20D61D?style=for-the-badge&logoColor=white"><img height="30">
-  <img height="30" src="https://img.shields.io/badge/Shell-20D61D?style=for-the-badge&logoColor=white"><img height="30">
-  <br>
-  <img height="30" src="https://img.shields.io/badge/C-1375A3?style=for-the-badge&logoColor=white"><img height="30">
-  <img height="30" src="https://img.shields.io/badge/C++-1375A3?style=for-the-badge&logo=cpp&logoColor=white"><img height="30">
+<img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   
   ### Software / Utils
 <h2> DATA </h2>
