@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">A passionate DevOps</h3>
 
-- 🔭 I’m currently working on [Navazia]<a href="https://discord.gg/ey9KEaBNxj"><img alt="Navazia" title="Navazia" src="https://img.shields.io/badge/-Navazia-orange"/></a>,  [Mondialcloud](https://discord.gg/E7GyyVguKq)
+- 🔭 I’m currently working on <a href="https://discord.gg/ey9KEaBNxj"><img alt="Navazia" title="Navazia" src="https://img.shields.io/badge/-Navazia-orange"/></a>,  [Mondialcloud](https://discord.gg/E7GyyVguKq)
 
 
 
