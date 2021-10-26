@@ -22,7 +22,6 @@
 <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c++&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   
   ### Software / Utils
 <h2> DATA </h2>
@@ -30,13 +29,10 @@
     <img height="30" src="https://img.shields.io/badge/Mysql-D8C914?style=for-the-badge&logoColor=white"><img height="30">
     <img height="30" src="https://img.shields.io/badge/Redis-D61D1D?style=for-the-badge&logoColor=white"><img height="30">
     <img height="30" src="https://img.shields.io/badge/MongoDB-147E0D?style=for-the-badge&logoColor=white"><img height="30">
-  <br>
-<h2> IDE </h2>
-<p align="left"> 
-  <img height="30" src="https://img.shields.io/badge/Intellij-CE3ED5?style=for-the-badge&logoColor=white"><img height="30">
+  <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Intellij-CE3ED5?style=for-the-badge&logoColor=white"><img height="30">
   <img height="30" src="https://img.shields.io/badge/Webstorm-9723D5?style=for-the-badge&logoColor=white"><img height="30">
   <img height="30" src="https://img.shields.io/badge/VSC-2369D5?style=for-the-badge&logoColor=white"><img height="30">
-  <br>
 
 
 ### Contact
