@@ -4,15 +4,7 @@
 </p>
 <h3 align="center">A passionate DevOps</h3>
 
-- 🔭 I’m currently working on [Navazia](https://navazia.fr),  [Mondialcloud](https://discord.gg/E7GyyVguKq)
-
-- 🌱 I’m currently learning **C++/C, goLang**
-
-- 👨‍💻 All of my projects are available at [https://swiique.fr/](https://swiique.fr/)
-
-- 💬 Ask me about **Debian, cyber-security**
-
-- 📫 How to reach me **Swiique#4094**
+- 🔭 I’m currently working on [Navazia]<a href="https://discord.gg/ey9KEaBNxj"><img alt="Navazia" title="Navazia" src="https://img.shields.io/badge/-Navazia-pink"/></a>,  [Mondialcloud](https://discord.gg/E7GyyVguKq)
 
 
 
