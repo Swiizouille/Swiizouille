@@ -20,7 +20,7 @@
   <img height="30" src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c++&logoColor=white">
   
   ### Software / Utils
-<h2> DATA </h2>
+
   <p align="left"> 
     <img height="30" src="https://img.shields.io/badge/Mysql-D8C914?style=for-the-badge&logoColor=white"><img height="30">
     <img height="30" src="https://img.shields.io/badge/Redis-D61D1D?style=for-the-badge&logoColor=white"><img height="30">
