@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%238AA6F7&size=30&lines=Hello%2C+I'm+Swiique;Stupid+French+Devops)">
 </p>
 <h3 align="center">A passionate DevOps</h3>
+<img src="https://lanyard-profile-readme.vercel.app/api/638071631377596461">
 
 ### Informations
 
