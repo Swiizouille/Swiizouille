@@ -5,8 +5,7 @@
 
 
 <p align="center"><br>
-  <a href="https://github.com/KanekiWeb">
-    <img src="https://lanyard-profile-readme.vercel.app/api/841283872917422121"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/638071631377596461"/>
      </a>
 </p>
 
@@ -19,24 +18,26 @@
 
 
 
+p align="center">
+	<b>Languages & Frameworks</b>
+	<br>
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+	<br><br>
+	<b>My Github Stats</b><br>
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiWeb&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=KanekiWeb&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiWeb&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+</p>
 
-
-### Languages
-  <p align="left"> 
-<img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c++&logoColor=white">
-  
-  ### Software / Utils
-
-  <p align="left"> 
-    <img height="30" src="https://img.shields.io/badge/Mysql-D8C914?style=for-the-badge&logoColor=white"><img height="30">
-    <img height="30" src="https://img.shields.io/badge/Redis-D61D1D?style=for-the-badge&logoColor=white"><img height="30">
-    <img height="30" src="https://img.shields.io/badge/MongoDB-147E0D?style=for-the-badge&logoColor=white"><img height="30">
-  <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img height="30" src="https://img.shields.io/badge/Intellij-CE3ED5?style=for-the-badge&logoColor=white"><img height="30">
-  <img height="30" src="https://img.shields.io/badge/Webstorm-9723D5?style=for-the-badge&logoColor=white"><img height="30">
-  <img height="30" src="https://img.shields.io/badge/VSC-2369D5?style=for-the-badge&logoColor=white"><img height="30">
 
 
 ### Contact
