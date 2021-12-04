@@ -18,7 +18,8 @@
 
 
 
-<p align="center">
+### Skills & Techno
+
 ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Software-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
@@ -26,7 +27,6 @@
 ![](https://img.shields.io/badge/Interesting-CyberSecurity-informational?style=flat&logo=Batch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Superset-Typescript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
 
-</p>
 
 
 
