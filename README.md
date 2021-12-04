@@ -21,14 +21,12 @@
 <p align="center">
 	<b>Languages & Frameworks</b>
 	<br>
-	<code><img height="25" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"></code>
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Software-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Learning-VueJS-informational?style=flat&logo=Vue&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Interesting-CyberSecurity-informational?style=flat&logo=Batch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Superset-Typescript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
 	<br><br>
 </p>
 
